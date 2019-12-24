@@ -1,1 +1,1 @@
-"# urifaiton" 
+# uri faiton resolutionares
