@@ -1,1 +1,1 @@
-# uri faiton resolutionares
+# Resoluções de códigos do URI em python.
